@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+.top-div{
+    text-align: center;
+    margin: auto;
+    border: 2px solid rgba(red, green, blue, alpha);
+    background-color: aqua;
+    padding: 20px;
+    width: 500px;
+    margin-top: 150px;
+
+}
+.title{
+    font-size: 50px;
+
+}
+.credentials{
+    padding: 10px;
+    font-size: 20px;
+
+}
+#username-input{
+    margin-bottom: 30px;
+
+}
+#sign-in-button{
+    margin-top: 30px;
+}
